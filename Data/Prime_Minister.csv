@@ -1,0 +1,25 @@
+Order,Name,Gender,Age_At_Start,Height_cm_estimated,Birth_Date,First_Term_Start_Date
+1,Sir John A. Macdonald,Male,52,172,1815-01-11,1867-07-01
+2,Alexander Mackenzie,Male,51,170,1822-01-28,1873-11-07
+3,Sir John Abbott,Male,70,168,1821-03-12,1891-06-16
+4,Sir John Sparrow David Thompson,Male,47,175,1845-11-10,1892-12-05
+5,Sir Mackenzie Bowell,Male,70,169,1823-12-27,1894-12-21
+6,Sir Charles Tupper,Male,74,171,1821-07-02,1896-05-01
+7,Sir Wilfrid Laurier,Male,54,173,1841-11-20,1896-07-11
+8,Sir Robert Borden,Male,57,174,1854-06-26,1911-10-10
+9,Arthur Meighen,Male,46,172,1874-06-16,1920-07-10
+10,William Lyon Mackenzie King,Male,47,170,1874-12-17,1921-12-29
+11,R. B. Bennett,Male,60,171,1870-07-03,1930-08-07
+12,Louis St. Laurent,Male,66,175,1882-02-01,1948-11-15
+13,John Diefenbaker,Male,61,178,1895-09-18,1957-06-21
+14,Lester B. Pearson,Male,65,172,1897-04-23,1963-04-22
+15,Pierre Elliott Trudeau,Male,48,180,1919-10-18,1968-04-20
+16,Joe Clark,Male,39,175,1939-06-05,1979-06-04
+17,John Turner,Male,55,174,1929-06-07,1984-06-30
+18,Brian Mulroney,Male,45,185,1939-03-20,1984-09-17
+19,Kim Campbell,Female,46,168,1947-03-10,1993-06-25
+20,Jean Chrétien,Male,59,170,1934-01-11,1993-11-04
+21,Paul Martin,Male,65,175,1938-08-28,2003-12-12
+22,Stephen Harper,Male,46,178,1959-04-30,2006-02-06
+23,Justin Trudeau,Male,43,191,1971-12-25,2015-11-04
+24,Mark Carney,Male,59,183,1965-03-16,2025-03-14
