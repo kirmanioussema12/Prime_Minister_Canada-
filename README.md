@@ -85,12 +85,13 @@ Plots include:
 ---
 
 ## 📂 Files in This Project
-
+```text
 📁 project/
 ├── Analysis.ipynb
 ├── canadian_prime_ministers_age_at_start_with_carney.csv
 ├── pm_dataset_enriched_for_charts_numpy.csv
 └── README.md
+```
 
 
 ---
